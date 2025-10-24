@@ -2,9 +2,9 @@
 /*
 Plugin Name: FWP+: Featured Images from WordPress API
 Plugin URI: https://github.com/twwoodward/fwp-featured-images
-Description: Fetches and sets featured images from WordPress REST API for syndicated posts
+Description: Fetches and sets featured images from WordPress REST API for syndicated posts via FeedWordPress.
 Version: 1.0.0
-Author: Your Name
+Author: Tom Woodward
 Author URI: https://bionicteaching.com
 License: GPL
 */
